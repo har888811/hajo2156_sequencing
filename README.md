@@ -1,1 +1,1 @@
-# hajo2156_sequencing
+This is just a page I made to visualize sequenced and aligned reads.
